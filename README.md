@@ -18,3 +18,7 @@ Challange# 3-
 
 Created a powershell script to iterate through nested json object to provide the output using the passed key.
 
+#Sample Object and key as per the problem statement 
+ #object = {“a”:{“b”:{“c”:”d”}}}
+ #key = a/b/c
+
